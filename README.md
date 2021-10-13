@@ -22,7 +22,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+[![wakatime](https://wakatime.com/badge/user/e73f2078-d548-45ae-96f4-551f6a6d20b0.svg)](https://wakatime.com/@e73f2078-d548-45ae-96f4-551f6a6d20b0)
 <p align="center">
 <a href="https://www.twitter.com/danieldowombo">
   <img height="120px" src="https://github-readme-stats.vercel.app/api?username=danielkauffmann&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
